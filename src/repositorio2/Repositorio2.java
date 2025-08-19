@@ -13,6 +13,7 @@ public class Repositorio2 {
     public static void main(String[] args) {
         
         System.out.println("Hola, soy Erick y este es mi 1er repositorio");
+        System.out.println("Genial, si funcionó");
         // TODO code application logic here
     }
     
